@@ -8,8 +8,8 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/hello/target/debug/hello",
-            "args": ["90"],
+            "program": "${workspaceFolder}/own/target/debug/own",
+            "args": ["10"],
             "cwd": "${workspaceFolder}"
         }
     ]
