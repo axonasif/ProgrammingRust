@@ -1,1 +1,1 @@
-/workspace/ProgrammingRust/own/target/debug/own: /workspace/ProgrammingRust/own/src/main.rs
+/workspace/ProgrammingRust/divisors/target/debug/own: /workspace/ProgrammingRust/divisors/src/main.rs
